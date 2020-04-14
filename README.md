@@ -8,7 +8,7 @@ Our objective is to fix the current price prediction system with a predictive mo
 The dataset is the part of a Kaggle competition, sourced https://lnkd.in/d9W_7_c. The raw data consisted of information about cab rides for every 5 minutes and weather data for every hour from a few locations in Boston for a few weeks from November December 2018.
 
 ## Data Preprocessing:
-The data were merged based on location and time and the resulting dataset comprised 6 90 107 instances 21 features.
+The data were merged based on location and time and the resulting dataset comprised 6,90,107 instances 21 features.
 Day of the week and hour were extracted from the raw data Null values in rain were replaced by 0 inches.  The instances for cab type Taxi were discarded since the target variable “price” for such cab types was not available.
 
 ## Modeling:
