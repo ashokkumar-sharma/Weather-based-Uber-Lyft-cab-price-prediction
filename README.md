@@ -1,6 +1,6 @@
 # Weather-based-Uber-Lyft-cab-price-prediction
 
-# Problem Description: 
+## Problem Description: 
 Uber and Lyft's ride prices are not constant like public transport. They are greatly affected by the demand and supply of rides at a given time So what exactly drives this demand?
 Our objective is to fix the current price prediction system with a predictive model that can estimate the price of a ride including a more widespread range of measures. We aim to better understand the combined effect of day, time, type of ride and weather conditions on the price of the ride.
 
